@@ -1,1 +1,3 @@
-# simple-interpreter-C-
+# simple-interpreter-CPP
+
+A simple scheme language interpreter.
